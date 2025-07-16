@@ -1,0 +1,11 @@
+
+- Create a file named reflection.txt and answer the following:
+- What is the purpose of a shell?
+- What did you learn by running shell commands?
+- How was using the terminal different from clicking through folders?
+
+Answers
+
+-The pupose of shell is to make it easier and quicker to complete task. It increases speed and efficiency of computing. Also it acts as a translator for the computer from commands to binary language that the computer can understand."
+-I learnt that shell commands increase the ability to complete task quicker, navigate through files with efficiency and simpifly complex task.
+-Using the terminal rather than clicking through folders made it simplier and easier to manage. It eliminated a lot of time.
